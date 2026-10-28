@@ -9,9 +9,11 @@ O app **não vem com canais nem listas**: você cadastra as suas. Use só listas
 
 1. Na TV, instale o app **Downloader** pela loja de apps.
 2. Nas configurações da TV, permita que o Downloader instale apps desconhecidos.
-3. No Downloader, digite o link abaixo e confirme a instalação.
+3. No Downloader, digite o código **2544122** e confirme a instalação.
 
-**Link (sempre a versão mais nova):**
+**Código do Downloader:** `2544122` (leva sempre à versão mais nova)
+
+**Ou o link direto:**
 https://github.com/fernandofurbringer/nandaoiptv/releases/latest/download/NandaoIPTV.apk
 
 Se o aparelho recusar esse arquivo, use o `NandaoIPTV-arm64.apk` da [página de versões](https://github.com/fernandofurbringer/nandaoiptv/releases/latest).
